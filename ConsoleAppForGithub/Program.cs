@@ -11,9 +11,10 @@ namespace ConsoleAppForGithub
     {
         static void Main(string[] args)
         {
+            int sayi1;
             Console.WriteLine("Merhaba Dünya");
-
             Console.ReadLine();
+           
             
         }
     }
