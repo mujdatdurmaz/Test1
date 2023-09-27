@@ -8,5 +8,7 @@ namespace ConsoleAppForGithub
 {
     internal class Deneme2
     {
+        public int MyProperty { get; set; }
+
     }
 }
